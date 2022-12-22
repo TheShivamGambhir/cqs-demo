@@ -1,3 +1,3 @@
-config name    value
-perf_fees        20
-mgt_ownership   5
+config_name       unit    value
+perf_fees           %      20
+mgt_ownership       $       5
